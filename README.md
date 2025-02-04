@@ -16,3 +16,4 @@ Practicing Git Stuff
 * "I am the ghoul of this Tokyo" - Ken Kaneki
 * "what sweet nanny goat, might run it belly" -kadeyen 
 * "what sweet nanny goat, might run it belly" -kadeyen 
+* "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
