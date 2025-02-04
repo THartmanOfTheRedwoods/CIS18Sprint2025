@@ -14,4 +14,4 @@ Practicing Git Stuff
 * "Ora ora ora" -Jotaro Kujo
 * "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - Ada Lovlace
 * "what sweet nanny goat, might run it belly" -kadeyen 
-* "Necessity is blind until it becomes conscious. Freedom is the cosciousness of necessity." - Karl Marx
+* "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity." - Karl Marx
