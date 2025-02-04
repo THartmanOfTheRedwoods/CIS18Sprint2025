@@ -15,3 +15,5 @@ Practicing Git Stuff
 * "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - Ada Lovlace
 * "what sweet nanny goat, might run it belly" -kadeyen 
 * "one one coco full basket"- vergo
+* "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity." - Karl Marx
+* "You must understand that there is more than one path to the top of the mountain."- Miyamoto Musashi
