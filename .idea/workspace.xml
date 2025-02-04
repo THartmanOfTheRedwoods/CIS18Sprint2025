@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15bf7eb8-9a43-49b6-b9e9-d51768938ef9" name="Changes" comment="Feature 1 Ben Frank quote.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="15bf7eb8-9a43-49b6-b9e9-d51768938ef9" name="Changes" comment="Feature 1 Ben Frank quote." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Toshi's__Feature",
+    "git-widget-placeholder": "feature-99",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -86,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738709559692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature 1 Ben Frank quote.&#10;feature 99 from kadeyen">
+      <option name="closed" value="true" />
+      <created>1738712154598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738712154598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,24 +100,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Toshi's_Feature" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -120,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit of CIS18Spring2025" />
     <MESSAGE value="Feature 1 Ben Frank quote." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature 1 Ben Frank quote." />
+    <MESSAGE value="Feature 1 Ben Frank quote.&#10;feature 99 from kadeyen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature 1 Ben Frank quote.&#10;feature 99 from kadeyen" />
   </component>
 </project>
