@@ -4,7 +4,7 @@ Practicing Git Stuff
 ## Famous Quotes
 
 * "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety." - Benjamin Franklin
-* "I came I saw I conquered." - Ceaser
+* "I came, I saw, I conquered." - Caesar
 * "I am the ghoul of this Tokyo" - Ken Kaneki
 * “Be not afraid of growing slowly; be afraid only of standing still.” - Chinese Proverb
 * "this too shall pass-" - Rosa King Soloman
