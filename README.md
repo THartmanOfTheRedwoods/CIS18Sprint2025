@@ -16,4 +16,4 @@ Practicing Git Stuff
 * "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - Ada Lovlace
 * "what sweet nanny goat, might run it belly" -kadeyen 
 * "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity." - Karl Marx
-
+* "The story so far: In the beginning, the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move" -Douglas Adams
