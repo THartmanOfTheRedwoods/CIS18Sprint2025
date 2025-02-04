@@ -7,3 +7,4 @@ Practicing Git Stuff
 * "I came I saw I conquered." - Ceaser
 * "I am the ghoul of this Tokyo" - Ken Kaneki
 * "Ora ora ora" -Jotaro Kujo
+* "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - Ada Lovlace
