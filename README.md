@@ -11,4 +11,5 @@ Practicing Git Stuff
 * "Ora ora ora" -Jotaro Kujo
 * "The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - Ada Lovlace
 * "I am the ghoul of this Tokyo" - Ken Kaneki
-* "what sweet nanny goat, might run it belly" -kadeyen 
+* "what sweet nanny goat, might run it belly" -kadeyen
+* "You must understand that there is more than one path to the top of the mountain."- Miyamoto Musashi
