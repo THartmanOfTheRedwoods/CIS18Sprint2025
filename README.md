@@ -5,3 +5,4 @@ Practicing Git Stuff
 
 * "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety." - Benjamin Franklin
 * "I came I saw I conquered." - Ceaser
+* “How wonderful it is that nobody need wait a single moment before starting to improve the world.” – Anne Frank
