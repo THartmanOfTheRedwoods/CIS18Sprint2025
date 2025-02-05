@@ -4,7 +4,8 @@ Practicing Git Stuff
 ## Famous Quotes
 
 * "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety." - Benjamin Franklin
-* "I came I saw I conquered." - Caeser
+* "I came I saw I conquered." - Ceaser
+* "I am your Father" - Darth Vader
 * "I am the ghoul of this Tokyo" - Ken Kaneki
 * “Be not afraid of growing slowly; be afraid only of standing still.” - Chinese Proverb
 * "this too shall pass-" - Rosa King Soloman
@@ -19,3 +20,6 @@ Practicing Git Stuff
 * "what sweet nanny goat, might run it belly" - Kadeyen 
 * "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity." - Karl Marx
 * "You must understand that there is more than one path to the top of the mountain."- Miyamoto Musashi
+* "practice makes you better, never perfect" -talon
+* "forget what hurt you but never forget what it taught you" -unknown
+* "what doesnt kill you makes you stronger"
