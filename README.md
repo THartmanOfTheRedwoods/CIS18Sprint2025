@@ -4,7 +4,7 @@ Practicing Git Stuff
 ## Famous Quotes
 
 * "They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety." - Benjamin Franklin
-* "I came I saw I conquered." - Ceaser
+* "I came I saw I conquered." - Caesar
 * "I am the ghoul of this Tokyo" - Ken Kaneki
 * "Success means doing the best with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be." — Zig Ziglar
 * “Be not afraid of growing slowly; be afraid only of standing still.” - Chinese Proverb
@@ -24,3 +24,4 @@ Practicing Git Stuff
 * "practice makes you better, never perfect" -talon
 * "forget what hurt you but never forget what it taught you" -unknown
 * "what doesnt kill you makes you stronger"
+* "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
