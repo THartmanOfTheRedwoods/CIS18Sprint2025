@@ -26,3 +26,4 @@ Practicing Git Stuff
 * "forget what hurt you but never forget what it taught you" -unknown
 * "what doesnt kill you makes you stronger"
 * "Our greatest glory is not in never falling, but in rising every time we fall." - Confucius
+* "Negativity is the enemy of creativity." - David Lynch
